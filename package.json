@@ -1,0 +1,8 @@
+{
+  "name": "react-native-template-test",
+  "version": "0.0.5",
+  "description": "React Native Template",
+  "repository": "git@github.com:garyi-inmanage/react-native-template-test.git",
+  "author": "Gary Ilayev <garyi@inmanage.net>",
+  "license": "MIT"
+}
